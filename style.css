@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+    background-position: center;
+    background:url(back3.jpg) no-repeat center center/cover;
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+}
+
+
+
+
+.forms{
+    background-color: rgb(126, 120, 120);
+    margin-top: 200px;
+    padding: 20px;
+    border:3px solid black;
+    border-radius: 6px;
+    opacity: 0.79;
+    /* margin-right: 3px; */
+}
+
+h2{
+    color:white;
+    
+}
+
+label{
+    color: white;
+}
+
+button{
+ background-color:black ;   
+}
+
+.form-control{
+    background-color: transparent !important;
+    color: white !important;
+}
+
