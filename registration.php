@@ -1,7 +1,7 @@
 <?php
 
 session_start();
-header('location:index.php');
+header('location:index.html');
 
 $con= mysqli_connect('localhost','root','');
 
